@@ -1,0 +1,8 @@
+﻿country,country_code,continent,population,indicator,daily_count,date,rate_14_day,source
+India,IND,Asia,1380004385,confirmed cases,0,1/2/2020,,"Epidemic intelligence, national daily data"
+India,IND,Asia,1380004385,confirmed cases,0,1/3/2020,,"Epidemic intelligence, national daily data"
+India,IND,Asia,1380004385,confirmed cases,0,1/4/2020,,"Epidemic intelligence, national daily data"
+India,IND,Asia,1380004385,confirmed cases,0,1/5/2020,,"Epidemic intelligence, national daily data"
+United Kingdom,GBR,Europe,66647112,confirmed cases,1120,6/7/2020,30.24437128,"Epidemic intelligence, national daily data"
+United Kingdom,GBR,Europe,66647112,confirmed cases,801,6/8/2020,29.15505176,"Epidemic intelligence, national daily data"
+United Kingdom,GBR,Europe,66647112,confirmed cases,721,6/9/2020,28.19026877,"Epidemic intelligence, national daily data"
